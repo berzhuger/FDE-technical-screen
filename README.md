@@ -1,6 +1,3 @@
-Here is a `README.md` file for your project:
-
-```markdown
 # Box Sorter
 
 This project provides a Python function, `sort`, that categorizes boxes based on their dimensions and mass. The function determines whether a box is `STANDARD`, `SPECIAL`, or should be `REJECT`ed based on specific criteria.
@@ -62,9 +59,4 @@ python -m unittest test_sort.py
 ├── main.py          # Contains the `sort` function
 ├── test_sort.py     # Unit tests for the `sort` function
 └── README.md        # Project documentation
-```
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 ```
